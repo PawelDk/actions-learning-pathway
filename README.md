@@ -1,3 +1,7 @@
+Repo for learning within first module of [Automation learning pathway](https://resources.github.com/learn/pathways/automation/) - [Essentials of GitHub Actions module](https://resources.github.com/learn/pathways/automation/essentials/automated-application-deployment-with-github-actions-and-pages/).
+
+Created from this template: https://github.com/github/actions-learning-pathway
+
 ## Essentials of GitHub Actions learning pathway demo repository
 
 This repository contains the core web application files and configuration you'll need to follow along through the [Essentials of automated application deployment with GitHub Actions & GitHub Pages](https://resources.github.com/learn/pathways/automation/essentials/automated-application-deployment-with-github-actions-and-pages/) module.
